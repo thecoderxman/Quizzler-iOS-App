@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "35D99D6A5A25D5EB3890126DFED02130EB18A5F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "35D99D6A5A25D5EB3890126DFED02130EB18A5F2" : 0,
+    "CC7D4C83F89543DC5D7313A87002A3A288282EF1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "74A801FA-21F3-4BA5-8DEA-5DE1401CEB7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "35D99D6A5A25D5EB3890126DFED02130EB18A5F2" : "Quizzler\/",
+    "CC7D4C83F89543DC5D7313A87002A3A288282EF1" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Quizzler",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Quizzler.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/Quizzler.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "35D99D6A5A25D5EB3890126DFED02130EB18A5F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/Vixion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC7D4C83F89543DC5D7313A87002A3A288282EF1"
+    }
+  ]
+}
